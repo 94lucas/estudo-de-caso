@@ -1,11 +1,17 @@
 **About Dataset**	
 
 The dataset captures customer satisfaction scores for a one-month period at an e-commerce platform called Shopzilla (a pseudonym). It includes various features such as category and sub-category of interaction, customer remarks, survey response date, category, item price, agent details (name, supervisor, manager), and CSAT score etc.
+
 Note: Please be advised that the authentic information has been obfuscated, and the dataset has been fabricated using the Faker library to ensure the concealment of genuine details
+
 Dataset Information:
+
 Rows: 85,907
+
 Columns: 20
+
 Usage:
+
 This dataset serves as a valuable resource for conducting Exploratory data analysis (EDA), Visualization, and Machine Learning Classification tasks pertaining to customer service performance evaluation, satisfaction forecasting, and customer behavior analysis within the e-commerce sector.
 
 Do explore pinned 📌 notebook under code section for quick EDA📊 reference
